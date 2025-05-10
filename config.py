@@ -4,16 +4,16 @@ from pathlib import Path
 # Project Paths
 # =============
 
-filepath = Path('/Users/archie/Application Support/Out of the Park Developments/OOTP Baseball 26/saved_games/cubs_ootp26.lg/import_export/csv')
-export_filepath = Path('/Users/archie/Desktop/Stuff/squirrel_plays/Pistachio/outputs')
-pistachio_filepath = Path('/Users/archie/Desktop/Stuff/squirrel_plays/Pistachio')
+filepath = Path('/mnt/c/Users/lucio/OneDrive/Documents/Out of the Park Developments/OOTP Baseball 26/saved_games/Yankees.lg/import_export/csv')
+export_filepath = Path('outputs')
+pistachio_filepath = Path('/home/lucio/code/pistachio')
 
 # ========================
 # User & Team Identifiers
 # ========================
 
-ID = 3332 # this is your scout's coach_id taken from coaches.csv
-team_managed = 'CHC'  
+ID = 810 # this is your scout's coach_id taken from coaches.csv
+team_managed = 'NYY'  
 
 # ======================
 # Club Lookup Map
